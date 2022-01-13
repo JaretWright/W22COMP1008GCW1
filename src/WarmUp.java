@@ -25,6 +25,8 @@ public class WarmUp {
             System.out.println("Awesome I love skiing");
         else
             System.out.println("I'll do some coding instead");
+
+        System.out.println("Joshua asked a good question");
     }
 
     /**
